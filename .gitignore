@@ -4,3 +4,5 @@ venv/
 results/*.png
 results/*.txt
 processed_data/*.dat
+.snakemake/
+_build/
